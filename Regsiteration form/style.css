@@ -161,3 +161,18 @@
     color: white;
     border-bottom: 1px solid rgb(211, 205, 205);
 }
+
+
+/* icons imgaes */
+.icons {
+    z-index: 2;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    display: flex;
+}
+.icons a, img{
+    width: 50px;
+    cursor: pointer;
+    margin: 5px;
+}
