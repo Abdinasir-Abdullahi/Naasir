@@ -15,4 +15,13 @@ I will be posting kinds of design and landing pages and responsive
 3. Contact Form
 4. Calculator
 
+
+# What Sofware - Langs h'w used ?
+
+1. Html
+2. css
+3. JavaScript
+
+
+
 Download and use it for free 
